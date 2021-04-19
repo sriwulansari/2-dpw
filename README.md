@@ -1,61 +1,78 @@
 <!DOCTYPE html>
 <html>
-    <title punya Sri Wulan Sari 2022500110 SI2k </title>
-	<head>
-	    <h1 align"center">Pesona Tanaman Hias </hl>
-		</head>
-		<body>
-		<P align"center">keindahan tanaman hias</em></p>
-		<p align"center">juga termasuk ikan hias </em></p
-
-	    <p align="justify">Tanaman hias membawa suatu pesona tersendiri.warna-warna warni bunga,aneka rupa corak daun, membawa orang dengan senang hati mengoleksi dan merawatnya</p>
-	    <p align="justify">Berikut ini adalah kutipan Bapak Roger Bonger.</p>
-	
-	    <p style="text-align: justify">
-		<span style="margin-left:3cm">Kecenderungan orang untuk memiliki tanaman hias maupun ikan hias terus meningkat <br/></span>
-		<span style="margin-left:3cm">Bila dulu oarang enggan membeli tanaman hias,kini orang-orang tidak ragu lagi membelinya <br/></span>
-		<span style="margin-eft:3cm">Bahkan di kalangan kolektor harga tidak akan menjadi masalah <br/></span>
-		
-		<p style="text-align: justify">
-		<span style="margin-left:-70cm">Matahari mulai terbangun dari mimpi,memancarkan sinarnya yang hangat.<br/></span>
-		<span style="margin-left:-70cm">Burung-burung berkicau riang dan tentram, mengucapkan selamat pagi kawan.<br/></span>
-		<span style="margin-left:-70cm">Alamak!! ternyata suhu sekarang 34 derajat celcius.<br/></span>
-		
-		<p style="text-align: justify">
-		<p style="text-align: justify"><strong>Daftar kuliner Favorite</strong></p>
-	     <p style="text-align: justify">A. Makanan favorite <br /></span>
-		     <span style="margin-left:2cm">1. saucu <br ?\/></span>
-			 <span style="margin-left:2cm">2. Rendang Sapi Asam Manis Pedas <br />
-			                            B. Minuman favorite <br />
-			 <span style="margin-left:2cm">i. Jus Alpukat <br /></span>
-			 <span style="margin-left:2cm">ii. Yakult</p></span>
-			 
-	    <p style="text-align: justify"><strong>Daftar Film Favorite</strong>
-		<br>
-		<u1 type="aquare">
-		    <1i><p style="text-align: justify"Marvel's Agents of Shield</1i></span>
-			<1i><p style="text-align: justify"Avengers Series</1i></span>
-		<u1 type="circle">
-		    <1i><p style="text-align: justify">Avengers:Age of Ultron</li></span>
-			<1i><p style="text-align: justify">Avengers:End Game</1i></span>
-		</u1>
-		    <1i>< style="text-align: justify"spiderman</1i></span>
-		</u1>
-		<br/>
-		</p>
-		<p style="text-align: justify"><strong>Daftar Menu</p></strong>
-		
-		<p style="text-align: justify:>
-		<font Face="courier New"> Lempah Kuning Tenggiri             Rp. 50.000,-/porsi</font><br />
-		<font Face="courier New"> Nasi Putih                         RP. 5.000,-/piring</font><br />
-		<font face="courier New"> Teh Manis Adem                     Rp. 5.000,-/gelas</font><br />
-		<font Face="courier New"> Terasi pedas Mampus                Rp. 20.000,-/cup</font>
-		</p>
-		   
-		   <hr align="right" color="#808080" size="2" width="2000">
-		<p align="right">Pangkalpinang, 2 maret 2020<br>
-		                <i>ttd<br></i>
-		<p align="right"><"u>Yohanes Setiawan<br></u>
-		
-		</body>
-		<html>
+<body>
+<h1 align="center"> Pesona Tanaman Hias</h1>
+<p align="center">
+	<u><em>
+		Keindahan tanaman hias
+		</em>
+	</u>
+</p>
+<p align="center">
+	<del>Juga Termasuk</del> <ins><u>dan</u></ins> ikan hias
+</p>
+<hr size="20px" width="100%" align="center" color="#808080">
+<p align="justify"> <font size="5"> Tanaman hias membawa suatu pesona tersendiri. Warna-warni bunga, aneka
+rupa corak daun, membuat orang dengan <b>senang hati</b> mengkoleksi dan
+merawatnya.
+</p>
+<p>Berikut ini adalah kutipan Bapak Roger Bonger</p>
+<p align="left"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Kecenderungan orang untuk memiliki tanaman hias maupun ikan<br>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hias terus meningkat. Bila dulu orang enggan membeli tanaman<br>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hias, kini orang tidak ragu-ragu lagi membelinya. Bahkan di<br>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; kalangan kolektor, harga tidak akan menjadi masalah</p>
+<p align="center"><font face="monospace">Mataharipun mulai terbangun dari mimpi, memancarkan sinarnya yang
+										hangat. Burung-burung berkicau riang dan tentram, mengucapkan selamat
+										pagi, <font color="#FF0000"> kawan </font> . Alamak!!! ternyata suhu sekarang 34 &#176; celcius. </font> <br>
+</p>
+</p>
+<h2>Daftar Kuliner Favorit</h2>
+	<Ol type="A">
+	<li>Makanan Favorit</li>
+		<ol type="1">
+			<li>Saucu</li>
+			<li>Rendang Sapi Asam Manis Pedas</li>
+		</ol>
+	<li>Minuman Favorit</li>
+		<ol type="i">
+			<li>Jus Alpukat</li>
+			<li>Yakult</li>
+		</ol>
+</ol>
+<h2>Daftar Film Favorit</h2>
+	<ul type="square">
+		<li>Marvel's Agents Of Shiled</li>
+		<li>Avengers Series</li>
+			<ul type="circle">
+				<li>Avengers : Age of Ultron</li>
+				<li>Avengers : End Game</li>
+			</ul>
+		<li>Spiderman</li>
+	</ul>
+<h3>Daftar Menu</h3>
+<font face="monospace">
+	<li type="none">Lempah Kuning Tenggiri &nbsp; &nbsp; &nbsp; Rp. 50.000,-/porsi</li>
+	<li type="none">Nasi putih &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rp. 5.000,-/piring</li>
+	<li type="none">Teh manis adem &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rp. 5.000,-/gelas</li>
+	<li type="none">Sambal Terasi Pedas Mampus &nbsp; Rp. 20.000,-/cup</li>
+</font>
+<hr />
+<p align="right"> <font face="Time New Roman">Pangkalpinang, 2 Maret 2020</font></p>
+<p align="right"> <font face="Time New Roman"><small> <i>ttd</i></small></font></p>
+<p align="right"> <font face="Time New Roman"><u>Yohanes Setiawan</u></font></p>
+<li type="none"><small>teks dengan tag small</small></li>
+<li type="none">teks dengan ukuran normal tanpa tag</li>
+<li type="none"><big>teks dengan tag big</big></li>
+<hr/>
+<li type="none"><b>teks dengan tag b</b>
+<li type="none">teks normal tanpa tag, teks normal<sub>teks tag sub</p>
+<i>teks dengan tag i</i>
+<hr/>
+<li type="none"><cite>CITE : di mana ada kemauan. di situ ada jalan</cite></li>
+<li type="none"><code>CODE: writeln("hello word!");</code></li>
+<li type="none">KBD: Tekan <kbd>CTRL+S</kbd></li>
+<li type="none">SAMP: Nilai phi adalah <samp>phi = 3.14</samp>
+<li type="none">VAR: untuk menghitung <var>luas</var> persegipanjang gunakan perkalian <var>panjang * lebar</var>
+<!--dibuat tanggal 19 April 2021 16:30 oleh Sri wulan sari-->
+</body>
+</html>
