@@ -3,6 +3,8 @@
     <title punya Sri Wulan Sari 2022500110 SI2k </title>
 	<head>
 	    <h1 align"center">Pesona Tanaman Hias </hl>
+		</head>
+		<body>
 		<P align"center">keindahan tanaman hias</em></p>
 		<p align"center">juga termasuk ikan hias </em></p
 
